@@ -1,0 +1,29 @@
+body{
+    margin: auto;
+    max-width: 720px;
+    background-color: rgb(10, 10, 10);
+    color: white;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    height:auto;
+    color: burlywood;
+}
+
+h3{
+    text-decoration: underline;
+    padding: 0;
+    margin: 3px;
+}
+ 
+.nutrition{
+   display: inline-block;
+   margin-right: 7px;
+} 
+
+    th, td{
+    margin-top: 10px;
+    border: 1px solid white;
+}
+
